@@ -26,13 +26,13 @@ const App = () => {
         <ThemeProvider theme={theme === 'Light' ? lightTheme : darkTheme}>
             <GlobalStyles />
             <StyledApp>
-                <Router>
+                <Router basename={process.env.PUBLIC_URL}>
                     <div className={"btn" + theme + " " + theme + " btn btn" + theme + "Mode"} onClick={themeToggler}>
                         {theme === 'Light' ? <Moon color='white' /> : <BrightnessHighFill />}
                     </div>
                     <Switch>
-                        <Route path='/lappa/register' component={() => <Register theme={theme} />} />
-                        <Route path='/lappa/' component={() => <Home theme={theme} />} />
+                        <Route path='/register' component={() => <Register theme={theme} />} />
+                        <Route path='/' component={() => <Home theme={theme} />} />
                     </Switch>
                 </Router>
             </StyledApp>
