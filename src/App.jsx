@@ -31,8 +31,8 @@ const App = () => {
                         {theme === 'Light' ? <Moon color='white' /> : <BrightnessHighFill />}
                     </div>
                     <Switch>
+                        <Route exact path='/' component={() => <Home theme={theme} />} />
                         <Route path='/register' component={() => <Register theme={theme} />} />
-                        <Route path='/' component={() => <Home theme={theme} />} />
                     </Switch>
                 </Router>
             </StyledApp>
