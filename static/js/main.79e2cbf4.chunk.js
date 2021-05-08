@@ -7,4 +7,4 @@ body {
     color: ${l=>l.theme.fontColor};
 `;return t.a.createElement(m.a,{theme:e==="Light"?D:f},t.a.createElement(M,null),t.a.createElement(c,null,t.a.createElement(O.a,{basename:"/lappa"},t.a.createElement("div",{className:"btn"+e+" "+e+" btn btn"+e+"Mode",onClick:_},e==="Light"?t.a.createElement(P.a,{color:"white"}):t.a.createElement(L.a,null)),t.a.createElement(i.c,null,t.a.createElement(i.a,{exact:!0,path:"/",component:()=>t.a.createElement(v.a,{theme:e})}),t.a.createElement(i.a,{path:"/register",component:()=>t.a.createElement(T,{theme:e})})))))};g.a.render(t.a.createElement(t.a.StrictMode,null,t.a.createElement("div",{className:"AppContainer"},t.a.createElement(I,null))),document.getElementById("root")),h(),navigator.serviceWorker.register("../sw.js")}},[[43,1,2]]]);
 
-//# sourceMappingURL=main.d2bdec67.chunk.js.map
+//# sourceMappingURL=main.79e2cbf4.chunk.js.map
