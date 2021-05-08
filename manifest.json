@@ -1,7 +1,21 @@
 {
-    "name": "LAPPA | Buscador de transportes.",
     "short_name": "LAPPA",
-    "display": "fullscreen",
-    "theme_color": "orangered",
-    "background_color": "white"
+    "name": "Buscador de transportes.",
+    "icons": [
+        {
+            "src": "/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/lappa/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "https://github.com/coltking/lappa/",
+    "description": "Buscador de transportes"
 }
