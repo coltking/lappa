@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/lappa/static/css/main.ac804aa1.chunk.css",
-    "main.js": "/lappa/static/js/main.0fa3e27a.chunk.js",
-    "main.js.map": "/lappa/static/js/main.0fa3e27a.chunk.js.map",
+    "main.js": "/lappa/static/js/main.79e2cbf4.chunk.js",
+    "main.js.map": "/lappa/static/js/main.79e2cbf4.chunk.js.map",
     "runtime-main.js": "/lappa/static/js/runtime-main.f0a259ec.js",
     "runtime-main.js.map": "/lappa/static/js/runtime-main.f0a259ec.js.map",
-    "static/js/2.783bed13.chunk.js": "/lappa/static/js/2.783bed13.chunk.js",
-    "static/js/2.783bed13.chunk.js.map": "/lappa/static/js/2.783bed13.chunk.js.map",
+    "static/js/2.148a1282.chunk.js": "/lappa/static/js/2.148a1282.chunk.js",
+    "static/js/2.148a1282.chunk.js.map": "/lappa/static/js/2.148a1282.chunk.js.map",
     "static/js/3.72aaeeb8.chunk.js": "/lappa/static/js/3.72aaeeb8.chunk.js",
     "static/js/3.72aaeeb8.chunk.js.map": "/lappa/static/js/3.72aaeeb8.chunk.js.map",
     "index.html": "/lappa/index.html",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f0a259ec.js",
-    "static/js/2.783bed13.chunk.js",
+    "static/js/2.148a1282.chunk.js",
     "static/css/main.ac804aa1.chunk.css",
-    "static/js/main.0fa3e27a.chunk.js"
+    "static/js/main.79e2cbf4.chunk.js"
   ]
 }
