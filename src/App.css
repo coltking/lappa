@@ -1,0 +1,57 @@
+.Light {
+    background-color: #53575a;
+    color: white;
+}
+.Dark {
+    background-color: white;
+    color: #53575a;
+}
+.btnLightMode {
+    width: 5vh;
+    height: 5vh;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    bottom: 5vw;
+    left: 3vh;
+    transition: all 500ms ease;
+    z-index: 1000;
+}
+.btnDark{
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 0px 5px 5px white;
+}
+.btnDark:hover {
+    cursor: pointer;
+}
+.btnLight{
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 0px 5px 5px #53575a;
+}
+.btnLight:hover {
+    cursor: pointer;
+}
+.btnDarkMode {
+    z-index: 1000;
+    width: 5vh;
+    height: 5vh;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    bottom: 5vw;
+    left: 3vh;
+    transition: all 500ms ease;
+}
+
+.btnDarkMode:hover {
+    box-shadow: 0px 0px 100px 400px white;
+    transition: all 500ms ease;
+}
+.btnLightMode:hover {
+    box-shadow: 0px 0px 100px 400px #53575a;
+    transition: all 500ms ease;
+}
