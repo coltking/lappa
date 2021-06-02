@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lappa/static/css/main.9e114366.chunk.css",
-    "main.js": "/lappa/static/js/main.80d3d729.chunk.js",
-    "main.js.map": "/lappa/static/js/main.80d3d729.chunk.js.map",
+    "main.js": "/lappa/static/js/main.3845fb28.chunk.js",
+    "main.js.map": "/lappa/static/js/main.3845fb28.chunk.js.map",
     "runtime-main.js": "/lappa/static/js/runtime-main.430e6596.js",
     "runtime-main.js.map": "/lappa/static/js/runtime-main.430e6596.js.map",
     "static/js/2.13559030.chunk.js": "/lappa/static/js/2.13559030.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.430e6596.js",
     "static/js/2.13559030.chunk.js",
     "static/css/main.9e114366.chunk.css",
-    "static/js/main.80d3d729.chunk.js"
+    "static/js/main.3845fb28.chunk.js"
   ]
 }
