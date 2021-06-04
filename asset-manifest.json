@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lappa/static/css/main.9e114366.chunk.css",
-    "main.js": "/lappa/static/js/main.3845fb28.chunk.js",
-    "main.js.map": "/lappa/static/js/main.3845fb28.chunk.js.map",
+    "main.css": "/lappa/static/css/main.c8e71b75.chunk.css",
+    "main.js": "/lappa/static/js/main.b8b080be.chunk.js",
+    "main.js.map": "/lappa/static/js/main.b8b080be.chunk.js.map",
     "runtime-main.js": "/lappa/static/js/runtime-main.430e6596.js",
     "runtime-main.js.map": "/lappa/static/js/runtime-main.430e6596.js.map",
     "static/js/2.13559030.chunk.js": "/lappa/static/js/2.13559030.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.28710172.chunk.js": "/lappa/static/js/3.28710172.chunk.js",
     "static/js/3.28710172.chunk.js.map": "/lappa/static/js/3.28710172.chunk.js.map",
     "index.html": "/lappa/index.html",
-    "static/css/main.9e114366.chunk.css.map": "/lappa/static/css/main.9e114366.chunk.css.map",
+    "static/css/main.c8e71b75.chunk.css.map": "/lappa/static/css/main.c8e71b75.chunk.css.map",
     "static/media/1.jpg": "/lappa/static/media/1.8ddd3631.jpg",
     "static/media/10.jpg": "/lappa/static/media/10.48811f71.jpg",
     "static/media/11.jpg": "/lappa/static/media/11.23f1d4eb.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.430e6596.js",
     "static/js/2.13559030.chunk.js",
-    "static/css/main.9e114366.chunk.css",
-    "static/js/main.3845fb28.chunk.js"
+    "static/css/main.c8e71b75.chunk.css",
+    "static/js/main.b8b080be.chunk.js"
   ]
 }
